@@ -15,28 +15,7 @@ Weather-Watcher is an interactive weather web app built using HTML, CSS, JavaScr
 **Error handling**: If an invalid city name is entered, the app displays a helpful error message. ⚠️
 
 
-**🌟 How to Use**
-
-**Open the Weather App**: When you load the app, you'll see a search bar where you can type the name of the city you're interested in. ⌨️
-
-**Enter a City Name**: Type the name of any city and press Enter or click the search button to get the weather details. 🏙️
-
-**View the Weather**: Once a valid city name is entered, the app will display the weather, including:
-
-Temperature 🌡️
-
-Humidity 💧
-
-Wind Speed 🌬️
-
-Weather Icon ☀️🌧️🌤️
-
-**Error Message**: If an invalid city name is entered, an error message will appear letting you know that the city is not found. ❌
-
-**Enjoy the Updates**: See your city’s weather details update in real-time and plan your day accordingly! 🌞
-
-
-**🎨 How It Works**
+**🌡️ How It Works**
 
 The app fetches real-time weather data from the OpenWeather API.
 
